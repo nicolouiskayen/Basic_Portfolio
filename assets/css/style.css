@@ -102,5 +102,9 @@ button {
 
 h2 {
     text-decoration: underline;
+    padding: 10px;
+}
+h1{
+    padding: 10px;
 }
 
